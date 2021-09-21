@@ -1,2 +1,7 @@
+# ignore files created by emacs - temporal ending with ~
+*~
+~*
+[*~]
+[*~]
+[*~*]
 *~*
-README.md
